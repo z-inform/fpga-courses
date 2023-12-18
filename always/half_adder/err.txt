@@ -1,0 +1,4 @@
+./ha.v:3: error: cout is not a valid l-value in tb.u0.
+./ha.v:1:      : cout is declared here as wire.
+./ha.v:3: error: sum is not a valid l-value in tb.u0.
+./ha.v:1:      : sum is declared here as wire.
