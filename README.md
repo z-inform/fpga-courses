@@ -12,3 +12,16 @@
 
 [Ссылка](./always/report.md)
 
+## Задание 4. 
+
+### Cocotb quickstart example
+
+[Ссылка](./quickstart/report.md)
+
+### Matrix multiplier example
+
+[Ссылка](./matmul/report.md)
+
+### NCO
+
+[Ссылка](./NCO/report.md)

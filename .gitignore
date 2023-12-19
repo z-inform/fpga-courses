@@ -1,0 +1,13 @@
+**/db/
+**/incremental_db/
+**/simulation/
+**/output_files/
+**/build/
+*.swp
+results.xml
+**/__pycache__/
+**/sim_build/
+!**/*.v
+!**/*.md
+!**/*.png
+!**/*.py

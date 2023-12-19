@@ -1,6 +1,6 @@
 <testsuites name="results">
   <testsuite name="all" package="all">
-    <property name="random_seed" value="1702929884" />
-    <testcase name="nco_tb" classname="tb" file="/home/zakhar/kmtt/fpga/NCO/tb.py" lineno="8" time="1.152977466583252" sim_time_ns="10099.501" ratio_time="8759.495560593208" />
+    <property name="random_seed" value="1703011318" />
+    <testcase name="nco_tb" classname="tb" file="/home/zakhar/kmtt/fpga/NCO/tb.py" lineno="8" time="14.500882863998413" sim_time_ns="100099.501" ratio_time="6902.993558310765" />
   </testsuite>
 </testsuites>

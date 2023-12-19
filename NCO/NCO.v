@@ -38,7 +38,7 @@ real phase;
 end
 
 // dither generation
-wire [2:0] dither; 
+wire [1:0] dither; 
 //assign dither = 0; // replace with line by LSFR module instantiation to get dither value
 nco_dither_lsfr dither_gen (.clk(clk), .rst(rst), .out(dither));
 
