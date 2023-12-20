@@ -164,3 +164,18 @@ include $(shell cocotb-config --makefiles)/Makefile.sim
 ### Sine generation
 
 ![Sine](sine.png)
+
+### Spectrums
+
+2 dither bits
+
+#### step = 30000
+
+![No dither](spec30000.png)
+![With dither](spec30000_dither.png)
+
+
+#### step = 60000
+
+![No dither](spec60000.png)
+![With dither](spec6000_dither.png)
