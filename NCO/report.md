@@ -167,15 +167,24 @@ include $(shell cocotb-config --makefiles)/Makefile.sim
 
 ### Spectrums
 
-2 dither bits
+8 dither bits
+
+#### step = 1000
+
+![No dither](spec1000.png)
+![With dither](spec1000_dither.png)
+
+#### step = 10000
+
+![No dither](spec10000.png)
+![With dither](spec10000_dither.png)
 
 #### step = 30000
 
 ![No dither](spec30000.png)
 ![With dither](spec30000_dither.png)
 
-
 #### step = 60000
 
 ![No dither](spec60000.png)
-![With dither](spec6000_dither.png)
+![With dither](spec60000_dither.png)
